@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my Github repository! 
+
+I have recently graduated from Nanyang Technological University with a Computer Engineering Bachelor Degree. I have interest in Artificial Intelligence and programming simple microcontrollers like Arduino. As you can see from my projects, they are mostly Artificial Intelligence and IoT based.
