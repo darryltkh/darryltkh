@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 Welcome to my Github repository! 
 
 🖥 I have recently graduated from Nanyang Technological University with a Computer Engineering Bachelor Degree. My speciality is in Artificial Intelligence and programming simple microcontrollers like Arduino. As you can see from my projects, they are mostly Artificial Intelligence and IoT based.
+
+I am currently looking for a full-time job and continuing to practice and improve on my coding skills and start on some personal projects of my own.
+
+📧 Do reach out to me at DTAN103@e.ntu.edu.sg!
