@@ -21,4 +21,7 @@ Welcome to my Github repository!
 
 I am currently looking for a full-time job and continuing to practice and improve on my coding skills and start on some personal projects of my own.
 
-📧 Do reach out to me at DTAN103@e.ntu.edu.sg!
+📧 Find out more about me & feel free to connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-darryltkh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darryltkh/)](https://www.linkedin.com/in/darryltkh/)
+[![Outlook](https://img.shields.io/badge/-DTAN103@e.ntu.edu.sg-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:DTAN103@e.ntu.edu.sg)](mailto:DTAN103@e.ntu.edu.sg)
