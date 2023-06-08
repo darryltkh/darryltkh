@@ -26,7 +26,7 @@ I am currently looking for a full-time job and continuing to practice and improv
 [![Linkedin Badge](https://img.shields.io/badge/-darryltkh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darryltkh/)](https://www.linkedin.com/in/darryltkh/)
 [![Outlook](https://img.shields.io/badge/-DTAN103@e.ntu.edu.sg-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:DTAN103@e.ntu.edu.sg)](mailto:DTAN103@e.ntu.edu.sg)
 
-## Skills
+## Programming Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
@@ -37,7 +37,6 @@ I am currently looking for a full-time job and continuing to practice and improv
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## Hardware Experience
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
