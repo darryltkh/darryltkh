@@ -24,7 +24,7 @@ I am currently looking for a full-time job and continuing to practice and improv
 📧 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-darryltkh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darryltkh/)](https://www.linkedin.com/in/darryltkh/)
-[![Gmail](https://img.shields.io/badge/-DTAN103@e.ntu.edu.sg-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:darryltankh@gmail.com)](mailto:darryltankh@gmail.com)
+[![Gmail](https://img.shields.io/badge/darryltankh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:darryltankh@gmail.com)](mailto:darryltankh@gmail.com)
 
 ## Programming Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
